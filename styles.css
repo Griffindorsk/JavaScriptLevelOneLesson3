@@ -1,0 +1,11 @@
+.output_frame {
+    margin: 0 2vw;
+}
+.output_frame p {
+    padding: 0;
+    margin: 0;
+}
+.output_frame h3 {
+    padding: 0;
+    margin: 0;
+}
